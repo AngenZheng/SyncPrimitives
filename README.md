@@ -8,3 +8,5 @@ The code includes a subset of synchronization primitives I wroted using atomic i
 * Spinlocks 
 * Reader-Writer Locks 
 * A lock freequeue
+
+More details about the project description can be found [here](http://people.cs.pitt.edu/~jacklange/teaching/cs2510-f12/project1.pdf).
